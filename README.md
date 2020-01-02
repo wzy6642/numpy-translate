@@ -1,5 +1,7 @@
 # numpy包常用函数官方文档翻译   
 
+**备注:**`numpy==1.16.4`
+
 | 序号 | 函数名称 | 功能 | jupyter notebook链接 | CSDN链接 | 
 |:---:|:---:|:---:|:---:|:---:|
 | 1 | numpy.floor | 按元素顺序将输入数据向下取整 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/floor.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/103794351) |
