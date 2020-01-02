@@ -8,3 +8,5 @@
 | 2 | numpy.random.normal | 从正态（高斯）分布中抽取随机样本 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/random.normal.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/103807829) |
 | 3 | numpy.linspace | 在指定区间内返回均匀间隔的数字 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/linspace.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/103810762) |
 | 4 | numpy.zeros | 生成全0数组 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/zeros.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/103811616) |
+| 5 | numpy.empty | 根据给定的维度和数值类型随机生成一个数组 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/empty.ipynb) | [CSDN]() |
+
