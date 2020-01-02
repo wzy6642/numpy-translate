@@ -9,4 +9,3 @@
 | 3 | numpy.linspace | 在指定区间内返回均匀间隔的数字 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/linspace.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/103810762) |
 | 4 | numpy.zeros | 生成全0数组 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/zeros.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/103811616) |
 | 5 | numpy.empty | 根据给定的维度和数值类型随机生成数组 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/empty.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/103812779) |
-
