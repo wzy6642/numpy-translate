@@ -11,3 +11,4 @@
 | 5 | numpy.empty | 根据给定的维度和数值类型随机生成数组 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/empty.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/103812779) |
 | 6 | numpy.eye | 对角线元素为1，其余位置元素为0的数组 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/eye.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/103814725) |
 | 7 | numpy.random.randint | 返回半闭区间内的随机整数 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/random.randint.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/103819386) |
+| 8 | numpy.concatenate | 沿着指定的轴拼接一系列数组 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/concatenate.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/103829798) |
