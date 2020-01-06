@@ -15,3 +15,4 @@
 | 9 | numpy.ma | 介绍掩码数组 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/ma.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/103833856) |
 | 10 | numpy.dstack | 将列表中的数组沿深度方向进行拼接 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/dstack.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/103840261) |
 | 11 | numpy.add | 两个数组对应位置的元素求和 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/add.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/103843239) |
+| 12 | numpy.negative | 对数组中每一个元素取相反数 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/negative.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/103850435) |
