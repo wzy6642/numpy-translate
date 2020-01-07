@@ -18,3 +18,4 @@
 | 12 | numpy.negative | 对数组中每一个元素取相反数 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/negative.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/103850435) |
 | 13 | numpy.divide | 数组对应位置元素做真正除法 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/divide.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/103857092) |
 | 14 | numpy.broadcast | 解释广播机制 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/Broadcasting.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/103869550) |
+| 15 | numpy.mod | 计算两数组对应位置元素的余数 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/mod.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/103874423) |
