@@ -19,3 +19,4 @@
 | 13 | numpy.divide | 数组对应位置元素做真正除法 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/divide.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/103857092) |
 | 14 | numpy.broadcast | 解释广播机制 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/Broadcasting.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/103869550) |
 | 15 | numpy.mod | 计算两数组对应位置元素的余数 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/mod.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/103874423) |
+| 16 | numpy.arange | 返回给定区间范围内间隔均匀的数值 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/arange.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/103900017) |
