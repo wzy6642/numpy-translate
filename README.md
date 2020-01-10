@@ -22,4 +22,5 @@
 | 16 | numpy.arange | 返回给定区间范围内间隔均匀的数值 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/arange.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/103900017) |
 | 17 | numpy.absolute | 对数组中的每一个元素求其绝对值 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/absolute.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/103901665) |
 | 18 | numpy.tan | 对数组中的每一个元素求其正切值 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/tan.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/103907768) |
-| 19 | numpy.arcsin | 对数组中的每一个元素求反正弦函数 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/arcsin.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/103919376) |   
+| 19 | numpy.arcsin | 对数组中的每一个元素求反正弦值 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/arcsin.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/103919376) |   
+| 20 | numpy.arccos | 对数组中的每一个元素求反余弦值 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/arccos.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/103924303) | 
