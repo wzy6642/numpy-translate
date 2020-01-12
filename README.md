@@ -25,3 +25,4 @@
 | 19 | numpy.arcsin | 对数组中的每一个元素求反正弦值 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/arcsin.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/103919376) |   
 | 20 | numpy.arccos | 对数组中的每一个元素求反余弦值 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/arccos.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/103924303) | 
 | 21 | numpy.arctan | 对数组中的每一个元素求反正切值 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/arctan.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/103933799) | 
+| 22 | numpy.copy | 返回给定数组的深拷贝 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/copy.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/103951130) | 
