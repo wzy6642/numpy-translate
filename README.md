@@ -28,3 +28,4 @@
 | 22 | numpy.copy | 返回给定数组的深拷贝 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/copy.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/103951130) | 
 | 23 | numpy.exp | 对输入数组的每个元素计算指数函数 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/exp.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/103952537) | 
 | 24 | numpy.newaxis | 给现有的数组增加一个维度 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/newaxis.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/103959697) | 
+| 25 | numpy.angle | 计算复数的辐角主值 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/angle.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/103990151) | 
