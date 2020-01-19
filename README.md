@@ -29,3 +29,4 @@
 | 23 | numpy.exp | 对输入数组的每个元素计算指数函数 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/exp.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/103952537) | 
 | 24 | numpy.newaxis | 给现有的数组增加一个维度 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/newaxis.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/103959697) | 
 | 25 | numpy.angle | 计算复数的辐角主值 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/angle.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/103990151) | 
+| 26 | numpy.argmax | 计算数组沿着某一条轴最大值的索引 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/argmax.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/104043492) | 
