@@ -32,3 +32,4 @@
 | 26 | numpy.argmax | 计算数组沿着某一条轴最大值的索引 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/argmax.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/104043492) | 
 | 27 | numpy.tril | 返回数组的下三角部分 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/tril.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/104043768) | 
 | 28 | numpy.triu | 返回数组的上三角部分 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/triu.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/104044025) | 
+| 29 | numpy.argsort | 返回数组排序后的元素索引值 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/argsort.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/104047999) | 
