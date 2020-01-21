@@ -33,3 +33,5 @@
 | 27 | numpy.tril | 返回数组的下三角部分 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/tril.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/104043768) | 
 | 28 | numpy.triu | 返回数组的上三角部分 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/triu.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/104044025) | 
 | 29 | numpy.argsort | 返回数组排序后的元素索引值 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/argsort.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/104047999) | 
+| 30 | numpy.sum | 数组沿着指定的轴求和 |[jupyter notebook](https://github.com/wzy6642/numpy-translate/blob/master/sum.ipynb) | [CSDN](https://blog.csdn.net/wzy628810/article/details/104058621) | 
+
